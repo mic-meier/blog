@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives and works in Buelach building useless things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `blog.mic-meier.ch`,
+    siteUrl: `https://blog.mic-meier.ch`,
     social: {
       twitter: `kylemathews`,
     },
